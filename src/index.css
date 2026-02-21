@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'JosefinSans Regular';
+    src: url("./assets/fonts/JosefinSans-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'JosefinSans Medium';
+    src: url("./assets/fonts/JosefinSans-Medium.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JosefinSans SemiBold';
+    src: url("./assets/fonts/JosefinSans-SemiBold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'JosefinSans Bold';
+    src: url("./assets/fonts/JosefinSans-Bold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'CormorantGaramond Regular';
+    src: url("./assets/fonts/CormorantGaramond-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CormorantGaramond Medium';
+    src: url("./assets/fonts/CormorantGaramond-Medium.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CormorantGaramond SemiBold';
+    src: url("./assets/fonts/CormorantGaramond-SemiBold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CormorantGaramond Bold';
+    src: url("./assets/fonts/CormorantGaramond-Bold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+@font-face {
+    font-family: 'CormorantInfant Regular';
+    src: url("./assets/fonts/CormorantInfant-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CormorantInfant Medium';
+    src: url("./assets/fonts/CormorantInfant-Medium.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CormorantInfant SemiBold';
+    src: url("./assets/fonts/CormorantInfant-SemiBold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CormorantInfant Bold';
+    src: url("./assets/fonts/CormorantInfant-Bold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CormorantInfant Italic';
+    src: url("./assets/fonts/CormorantInfant-Italic.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* *{
+    @apply border border-red-600
+} */
